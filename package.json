@@ -1,5 +1,6 @@
 {
   "name": "hubot-dotenv",
+  "description": "Hubot + dotenv command line.",
   "version": "1.0.0",
   "author": "xulapp",
   "bin": {
@@ -10,6 +11,9 @@
   },
   "dependencies": {
     "dotenv": "2.0.0"
+  },
+  "engines": {
+    "node": ">=4"
   },
   "homepage": "https://github.com/xulapp/hubot-dotenv#readme",
   "keywords": [
